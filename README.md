@@ -150,3 +150,11 @@ Bar Charts (Sales & Revenue)
 Donut Chart (Subscription Split)
 KPI Cards
 Category Analysis
+
+🎯 Conclusion
+
+This project demonstrates how SQL + Power BI can be used together to:
+
+Extract meaningful insights from raw data
+Support business decision-making
+Build interactive and professional dashboards
